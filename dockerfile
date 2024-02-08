@@ -1,6 +1,6 @@
 # Use an official Nginx image as a parent image
 #FROM nginx:alpine
-FROM nginx
+FROM nginx:alpine
 # Copy the static website files into the Nginx server
 COPY . /usr/share/nginx/html
 

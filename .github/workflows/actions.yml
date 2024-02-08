@@ -1,0 +1,5 @@
+#checkout code
+#build docker images
+#push to docker hub
+#push to ecr?
+ 
